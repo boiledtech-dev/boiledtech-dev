@@ -1,1 +1,5 @@
--hello
+- Highschool Developer. 
+- Works in C# and Java.
+- Learning kali linux at the moment. 
+- Addicted to coffee.
+- Does a lot of gamejams
